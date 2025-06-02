@@ -43,6 +43,6 @@ This repo shows exactly that:
                       │
 app.py ───► models.py ─► External LLM APIs (OpenAI, Anthropic, Mistral)
                       │
-      metrics.py ──► Quality scores (BLEU, ROUGE-L, cosine) :contentReference[oaicite:5]{index=5}
-       costs.py ───► Cost calculators per vendor :contentReference[oaicite:6]{index=6}
-      logger.py ───► JSONL telemetry store :contentReference[oaicite:7]{index=7}
+      metrics.py ──► Quality scores (BLEU, ROUGE-L, cosine) 
+       costs.py ───► Cost calculators per vendor 
+      logger.py ───► JSONL telemetry store 
