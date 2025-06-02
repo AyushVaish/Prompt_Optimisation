@@ -13,10 +13,10 @@
 Hiring pipelines often look for engineers who can ship an end-to-end AI product—not just call an API.  
 This repo shows exactly that:
 
-* **Product thinking** – a polished UI with five task-oriented pages :contentReference[oaicite:0]{index=0}  
-* **Engineering rigour** – modular model layer + cost & latency tracking :contentReference[oaicite:1]{index=1}  
-* **Research-grade evaluation** – BLEU, ROUGE-L and embedding-cosine metrics :contentReference[oaicite:2]{index=2}  
-* **Data discipline** – every run is appended to `history.jsonl` for auditability :contentReference[oaicite:3]{index=3}  
+* **Product thinking** – a polished UI with five task-oriented pages
+* **Engineering rigour** – modular model layer + cost & latency tracking 
+* **Research-grade evaluation** – BLEU, ROUGE-L and embedding-cosine metrics  
+* **Data discipline** – every run is appended to `history.jsonl` for auditability  
 
 ---
 
