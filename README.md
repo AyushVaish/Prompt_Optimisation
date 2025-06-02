@@ -24,7 +24,7 @@ This repo shows exactly that:
 
 | Page | What it does | Core file |
 |------|--------------|-----------|
-| **Single Model Demo** | Send one prompt → see output, token usage, $$ and latency. | `app.py` :contentReference[oaicite:4]{index=4} |
+| **Single Model Demo** | Send one prompt → see output, token usage, $$ and latency. | `app.py`  |
 | **Compare Two Models** | Side-by-side outputs + auto prompt-improvement suggestions. | `app.py` |
 | **A/B Test – Weighted-Sum** | Optimise prompts when *no ground truth* exists (quality×cost×latency WSM). | `app.py` |
 | **A/B Test – Ground-Truth** | Batch compare summaries against reference text via BLEU / ROUGE / embeddings. | `app.py` |
